@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Original User Provided Cartoon Avatar restored -->
-  <img src="https://github.com/user-attachments/assets/10b4cb99-906d-4d7a-ab17-09d5679900de" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="Developer Avatar">
+  <!-- User Provided Cartoon Avatar (save the image as avatar.png in this folder) -->
+  <img src="avatar.png" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="Developer Avatar">
 
   <br><br>
 
@@ -37,8 +37,8 @@
       <table border="0" width="100%" align="center">
         <tr align="center">
           <td align="center"><h3 style="color: #f97316;">2+</h3><p>Education</p></td>
-          <td align="center"><h3 style="color: #f97316;">3+</h3><p>Hackathons</p></td>
-          <td align="center"><h3 style="color: #f97316;">10+</h3><p>Projects</p></td>
+          <td align="center"><h3 style="color: #f97316;">10+</h3><p>Hackathons</p></td>
+          <td align="center"><h3 style="color: #f97316;">5+</h3><p>Projects</p></td>
         </tr>
       </table>
     </td>
