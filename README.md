@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- User Provided Cartoon Avatar -->
-  <img src="https://github.com/user-attachments/assets/10b4cb99-906d-4d7a-ab17-09d5679900de" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="Developer Avatar">
+  <!-- User Provided Cartoon Avatar (save the image as avatar.png in this folder) -->
+  <img src="avatar.png" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="Developer Avatar">
 
   <br><br>
 
