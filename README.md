@@ -57,7 +57,7 @@
 <div align="center">
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,django,mongodb,postgres,java,cpp,c,figma,git,vscode,docker&theme=dark&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,java,cpp,c,figma,git,vscode,linux,canva&theme=dark&perline=10" alt="My Skills" />
   </a>
 </div>
 
