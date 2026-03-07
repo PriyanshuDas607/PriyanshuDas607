@@ -23,7 +23,8 @@
 <table border="0" width="100%" style="background-color: transparent;">
   <tr>
     <td width="30%" valign="top" align="center">
-      <img src="https://img.freepik.com/premium-psd/3d-futuristic-robot-holding-glowing-brain-artificial-intelligence-concept_434471-852.jpg" width="220" style="border-radius: 15px;" alt="AI Developer illustration">
+      <!-- High-quality transparent 3D Developer Avatar -->
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-4731302-3925760.png" width="220" style="border-radius: 15px;" alt="AI Developer illustration">
     </td>
     <td width="70%" valign="top" align="center">
       <h2 style="color: #f97316;">About Me</h2>
