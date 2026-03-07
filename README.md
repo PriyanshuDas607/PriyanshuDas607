@@ -23,7 +23,7 @@
 <table border="0" width="100%" style="background-color: transparent;">
   <tr>
     <td width="30%" valign="top" align="center">
-      <img src="https://img.freepik.com/premium-photo/3d-character-young-man-with-laptop-standing-smiling-isolated-dark-background_924039-158.jpg" width="220" style="border-radius: 15px;" alt="Developer illustration">
+      <img src="https://img.freepik.com/premium-psd/3d-futuristic-robot-holding-glowing-brain-artificial-intelligence-concept_434471-852.jpg" width="220" style="border-radius: 15px;" alt="AI Developer illustration">
     </td>
     <td width="70%" valign="top" align="center">
       <h2 style="color: #f97316;">About Me</h2>
@@ -36,8 +36,8 @@
       <table border="0" width="100%" align="center">
         <tr align="center">
           <td align="center"><h3 style="color: #f97316;">2+</h3><p>Education</p></td>
-          <td align="center"><h3 style="color: #f97316;">3+</h3><p>Years Experience</p></td>
-          <td align="center"><h3 style="color: #f97316;">20+</h3><p>Projects Completed</p></td>
+          <td align="center"><h3 style="color: #f97316;">3+</h3><p>Hackathons</p></td>
+          <td align="center"><h3 style="color: #f97316;">10+</h3><p>Projects</p></td>
         </tr>
       </table>
     </td>
@@ -119,5 +119,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer&text=Portfolio+Priyanshu+Das&fontSize=20&fontColor=f97316" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer&text=&fontSize=20&fontColor=f97316" width="100%" alt="Footer Wave"/>
 </div>
