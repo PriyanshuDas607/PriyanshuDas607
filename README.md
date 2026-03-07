@@ -15,7 +15,7 @@
   &nbsp;&nbsp;
   <a href="https://github.com/PriyanshuDas607"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=f97316&border=f97316" alt="GitHub"></a>
   &nbsp;&nbsp;
-  <a href="mailto:priyanshudas272006@gmail.com"><img src="https://img.shields.io/badge/Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=f97316&border=f97316" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyanshudas272006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=f97316&border=f97316" alt="Email"></a>
 </div>
 
 <br><br><br>
@@ -58,39 +58,35 @@
   <table border="0" width="80%" align="center" style="margin: 0 auto;">
     <tr>
       <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=f97316" alt="Python"><br><br>
-        <i>Proficiency</i><br>
-        <img src="https://geps.dev/progress/90?color=f97316" alt="90%" />
+        <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=f97316" alt="Python">
       </td>
       <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Machine_Learning-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f97316" alt="Machine Learning"><br><br>
-        <i>Proficiency</i><br>
-        <!-- Lowered ML -->
-        <img src="https://geps.dev/progress/75?color=f97316" alt="75%" />
+        <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316" alt="HTML">
       </td>
       <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316" alt="Java"><br><br>
-        <i>Proficiency</i><br>
-        <!-- Lowered Java -->
-        <img src="https://geps.dev/progress/65?color=f97316" alt="65%" />
+        <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316" alt="Java">
       </td>
     </tr>
     <tr>
       <td width="33%" align="center" style="padding: 10px;">
-        <br><img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=f97316" alt="React"><br><br>
-        <i>Proficiency</i><br>
-        <img src="https://geps.dev/progress/75?color=f97316" alt="75%" />
+        <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=f97316" alt="React">
       </td>
       <td width="33%" align="center" style="padding: 10px;">
-        <br><img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=f97316" alt="C++"><br><br>
-        <i>Proficiency</i><br>
-        <img src="https://geps.dev/progress/85?color=f97316" alt="85%" />
+        <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=f97316" alt="C++">
       </td>
       <td width="33%" align="center" style="padding: 10px;">
-        <br><img src="https://img.shields.io/badge/UI_UX_Design-0f172a?style=for-the-badge&logo=figma&logoColor=f97316" alt="UI UX"><br><br>
-        <i>Proficiency</i><br>
-        <!-- Raised UI/UX -->
-        <img src="https://geps.dev/progress/85?color=f97316" alt="85%" />
+        <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=f97316" alt="CSS">
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=f97316" alt="C">
+      </td>
+      <td width="33%" align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=f97316" alt="Canva">
+      </td>
+      <td width="33%" align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/UI_UX_Design-0f172a?style=for-the-badge&logo=figma&logoColor=f97316" alt="UI UX">
       </td>
     </tr>
   </table>
