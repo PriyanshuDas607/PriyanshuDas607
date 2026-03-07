@@ -55,41 +55,10 @@
 <br>
 
 <div align="center">
-  <table border="0" width="80%" align="center" style="margin: 0 auto;">
-    <tr>
-      <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=f97316" alt="Python">
-      </td>
-      <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316" alt="HTML">
-      </td>
-      <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316" alt="Java">
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=f97316" alt="React">
-      </td>
-      <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=f97316" alt="C++">
-      </td>
-      <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=f97316" alt="CSS">
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=f97316" alt="C">
-      </td>
-      <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=f97316" alt="Canva">
-      </td>
-      <td width="33%" align="center" style="padding: 10px;">
-        <img src="https://img.shields.io/badge/UI_UX_Design-0f172a?style=for-the-badge&logo=figma&logoColor=f97316" alt="UI UX">
-      </td>
-    </tr>
-  </table>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,python,django,mongodb,postgres,java,cpp,c,figma,git,vscode,docker&theme=dark&perline=10" alt="My Skills" />
+  </a>
 </div>
 
 <br><br><br>
