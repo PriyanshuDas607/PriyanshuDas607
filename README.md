@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Re-linked to a stable remote copy of the requested custom avatar to fix the 'broken image' issue -->
-  <img src="https://i.ibb.co/6c2rVq21/avatar-boy-orange.png" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="Developer Avatar">
+  <!-- Original User Provided Cartoon Avatar restored -->
+  <img src="https://github.com/user-attachments/assets/10b4cb99-906d-4d7a-ab17-09d5679900de" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="Developer Avatar">
 
   <br><br>
 
@@ -22,7 +22,7 @@
 
 <table border="0" width="100%" style="background-color: transparent;">
   <tr>
-    <td width="30%" valign="top" align="center">
+    <td width="30%" valign="middle" align="center">
       <!-- High-quality transparent 3D Developer Avatar -->
       <img src="https://cdni.iconscout.com/illustration/premium/thumb/software-developer-4550269-3779144.png" width="220" style="border-radius: 15px;" alt="AI Developer illustration">
     </td>
