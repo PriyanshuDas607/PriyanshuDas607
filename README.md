@@ -6,7 +6,7 @@
 
   <h1 style="color: #f97316;">Hi, I'm Priyanshu Das</h1>
   <p><b>AI/ML Engineer & Computational Explorer</b></p>
-  <p>Crafting high-fidelity digital twins and intelligent ecosystems.</p>
+  <p>Passionate about building intelligent systems and solving complex problems with AI.</p>
 
   <br>
 
@@ -30,8 +30,8 @@
       <h2 style="color: #f97316;">About Me</h2>
       <p>
         Computational Explorer & AI/ML Engineer deeply passionate about crafting intelligent ecosystems. 
-        I am driven by innovation, exploring concepts like antigravity physics, and building 3D aesthetics 
-        that blur the line between software and reality.
+        I am driven by innovation, developing scalable machine learning models, and building modern 
+        data-driven applications that deliver exceptional software experiences.
       </p>
       <br>
       <table border="0" width="100%" align="center">
