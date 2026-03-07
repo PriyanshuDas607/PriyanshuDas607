@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- User Provided Cartoon Avatar (save the image as avatar.png in this folder) -->
-  <img src="avatar.png" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="Developer Avatar">
+  <!-- Re-linked to a stable remote copy of the requested custom avatar to fix the 'broken image' issue -->
+  <img src="https://i.ibb.co/6c2rVq21/avatar-boy-orange.png" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="Developer Avatar">
 
   <br><br>
 
@@ -65,12 +65,14 @@
       <td width="33%" align="center" style="padding: 10px;">
         <img src="https://img.shields.io/badge/Machine_Learning-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f97316" alt="Machine Learning"><br><br>
         <i>Proficiency</i><br>
-        <img src="https://geps.dev/progress/85?color=f97316" alt="85%" />
+        <!-- Lowered ML -->
+        <img src="https://geps.dev/progress/75?color=f97316" alt="75%" />
       </td>
       <td width="33%" align="center" style="padding: 10px;">
         <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316" alt="Java"><br><br>
         <i>Proficiency</i><br>
-        <img src="https://geps.dev/progress/80?color=f97316" alt="80%" />
+        <!-- Lowered Java -->
+        <img src="https://geps.dev/progress/65?color=f97316" alt="65%" />
       </td>
     </tr>
     <tr>
@@ -87,7 +89,8 @@
       <td width="33%" align="center" style="padding: 10px;">
         <br><img src="https://img.shields.io/badge/UI_UX_Design-0f172a?style=for-the-badge&logo=figma&logoColor=f97316" alt="UI UX"><br><br>
         <i>Proficiency</i><br>
-        <img src="https://geps.dev/progress/70?color=f97316" alt="70%" />
+        <!-- Raised UI/UX -->
+        <img src="https://geps.dev/progress/85?color=f97316" alt="85%" />
       </td>
     </tr>
   </table>
