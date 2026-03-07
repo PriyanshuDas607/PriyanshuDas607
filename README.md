@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-  <!-- Animated Fog GIF -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqaDlxZ2R4ZjB6NXZ6Z3RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3Rq/3o7TKMG7r7E8pEwE0M/giphy.gif" width="100%" height="150" style="object-fit: cover; opacity: 0.6;">
+  <!-- Replaced broken Giphy with a functional purple fog/smoke GIF -->
+  <img src="https://media3.giphy.com/media/l41lNLxE8AENbI91K/giphy.gif" width="100%" height="150" style="object-fit: cover; opacity: 0.6;">
 </p>
 
 ---
