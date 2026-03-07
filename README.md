@@ -11,7 +11,7 @@
   <br>
 
   <!-- Social Header Links (Orange Theme) -->
-  <a href="https://linkedin.com/in/priyanshudas"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=f97316&border=f97316" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/priyanshu-das-919a1a302/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=f97316&border=f97316" alt="LinkedIn"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/PriyanshuDas607"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=f97316&border=f97316" alt="GitHub"></a>
   &nbsp;&nbsp;
@@ -24,7 +24,7 @@
   <tr>
     <td width="30%" valign="top" align="center">
       <!-- High-quality transparent 3D Developer Avatar -->
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-4731302-3925760.png" width="220" style="border-radius: 15px;" alt="AI Developer illustration">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/software-developer-4550269-3779144.png" width="220" style="border-radius: 15px;" alt="AI Developer illustration">
     </td>
     <td width="70%" valign="top" align="center">
       <h2 style="color: #f97316;">About Me</h2>
