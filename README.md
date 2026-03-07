@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Replaced previous 3D Avatar with a cooler alternative -->
-  <img src="https://img.freepik.com/premium-photo/3d-male-developer-working-laptop-blue-lighting_860599-4700.jpg" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="3D Developer Avatar">
+  <!-- Premium 3D Developer Avatar (Verified working link) -->
+  <img src="https://img.freepik.com/premium-psd/3d-cartoon-character-avatar-young-man-with-glasses-laptop_1150-101419.jpg?w=740" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="3D Developer Avatar">
 
   <br><br>
 
@@ -10,7 +10,7 @@
 
   <br>
 
-  <!-- Replaced Download CV and Contact buttons with directly clickable Social Badges -->
+  <!-- Social Header Links (Orange Theme) -->
   <a href="https://linkedin.com/in/priyanshudas"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=f97316&border=f97316" alt="LinkedIn"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/PriyanshuDas607"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=f97316&border=f97316" alt="GitHub"></a>
@@ -22,10 +22,11 @@
 
 <table border="0" width="100%" style="background-color: transparent;">
   <tr>
-    <td width="30%" valign="top" align="center">
-      <img src="https://img.freepik.com/premium-photo/3d-character-young-man-with-laptop-standing-smiling-isolated-dark-background_924039-158.jpg" width="220" style="border-radius: 15px;" alt="Developer illustration">
+    <td width="30%" valign="middle" align="center">
+      <!-- High Quality Developer Illustration -->
+      <img src="https://img.freepik.com/premium-psd/3d-character-young-man-standing-with-laptop-transparent-background_924039-156.jpg?w=740" width="220" style="border-radius: 15px;" alt="Developer illustration">
     </td>
-    <td width="70%" valign="top" align="center">
+    <td width="70%" valign="middle" align="center">
       <h2 style="color: #f97316;">About Me</h2>
       <p>
         Computational Explorer & AI/ML Engineer deeply passionate about crafting intelligent ecosystems. 
@@ -53,72 +54,81 @@
 
 <br>
 
-<!-- Centered Skills List using width 80% and align center -->
-<table border="0" width="80%" align="center">
-  <tr>
-    <td width="33%" align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=f97316" alt="Python"><br><br>
-      <i>Proficiency</i><br>
-      <img src="https://geps.dev/progress/90?color=f97316" alt="90%" />
-    </td>
-    <td width="33%" align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Machine_Learning-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f97316" alt="Machine Learning"><br><br>
-      <i>Proficiency</i><br>
-      <img src="https://geps.dev/progress/85?color=f97316" alt="85%" />
-    </td>
-    <td width="33%" align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316" alt="Java"><br><br>
-      <i>Proficiency</i><br>
-      <img src="https://geps.dev/progress/80?color=f97316" alt="80%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" style="padding: 10px;">
-      <br><img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=f97316" alt="React"><br><br>
-      <i>Proficiency</i><br>
-      <img src="https://geps.dev/progress/75?color=f97316" alt="75%" />
-    </td>
-    <td width="33%" align="center" style="padding: 10px;">
-      <br><img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=f97316" alt="C++"><br><br>
-      <i>Proficiency</i><br>
-      <img src="https://geps.dev/progress/85?color=f97316" alt="85%" />
-    </td>
-    <td width="33%" align="center" style="padding: 10px;">
-      <br><img src="https://img.shields.io/badge/UI_UX_Design-0f172a?style=for-the-badge&logo=figma&logoColor=f97316" alt="UI UX"><br><br>
-      <i>Proficiency</i><br>
-      <img src="https://geps.dev/progress/70?color=f97316" alt="70%" />
-    </td>
-  </tr>
-</table>
+<!-- PERFECTLY CENTERED SKILLS LIST -->
+<div align="center">
+  <table border="0" width="85%" align="center" style="margin: 0 auto;">
+    <tr align="center">
+      <td width="33%" align="center" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=f97316" alt="Python"><br><br>
+        <i>Proficiency</i><br>
+        <img src="https://geps.dev/progress/90?color=f97316" alt="90%" />
+      </td>
+      <td width="33%" align="center" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Machine_Learning-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f97316" alt="Machine Learning"><br><br>
+        <i>Proficiency</i><br>
+        <img src="https://geps.dev/progress/85?color=f97316" alt="85%" />
+      </td>
+      <td width="33%" align="center" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316" alt="Java"><br><br>
+        <i>Proficiency</i><br>
+        <img src="https://geps.dev/progress/80?color=f97316" alt="80%" />
+      </td>
+    </tr>
+    <tr align="center">
+      <td width="33%" align="center" style="padding: 15px;">
+        <br><img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=f97316" alt="React"><br><br>
+        <i>Proficiency</i><br>
+        <img src="https://geps.dev/progress/75?color=f97316" alt="75%" />
+      </td>
+      <td width="33%" align="center" style="padding: 15px;">
+        <br><img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=f97316" alt="C++"><br><br>
+        <i>Proficiency</i><br>
+        <img src="https://geps.dev/progress/85?color=f97316" alt="85%" />
+      </td>
+      <td width="33%" align="center" style="padding: 15px;">
+        <br><img src="https://img.shields.io/badge/UI_UX_Design-0f172a?style=for-the-badge&logo=figma&logoColor=f97316" alt="UI UX"><br><br>
+        <i>Proficiency</i><br>
+        <img src="https://geps.dev/progress/70?color=f97316" alt="70%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br><br><br>
 
 <div align="center">
   <h2 style="color: #f97316;">Experience & Achievements</h2>
-  <p>A showcase of my recent journey, competitive programming, and milestones.</p>
+  <p>Highlights of my journey, competitive programming, and milestones.</p>
 </div>
 
 <br>
 
-<table border="0" width="90%" align="center">
-  <tr>
-    <td width="100%">
-      <ul>
-        <li>🥇 <b>Winner, Pitch Your Idea 3.0:</b> Secured 1st rank for innovative idea presentation.</li>
-        <li>🚀 <b>National Level Finalist, HYPERSPACE Hackathon (IPEC):</b> Selected among the top teams nationwide for technical excellence.</li>
-        <li>💡 <b>Finalist, XCELERATE 3.0 Ideathon (SNU):</b> Finalist for cutting-edge project conceptualization and pitching.</li>
-        <li>🛡️ <b>Cybersecurity Analyst:</b> Participated in multiple National Level CTFs, solving complex security challenges.</li>
-        <li>👨‍💻 <b>Team Lead 'Syntax Error' (Azinhack):</b> Led a development team to build an ambitious project in a high-pressure environment.</li>
-        <li>🎓 <b>Continuous Learning:</b> Attended specialized workshops. Currently pursuing Harvard’s Introduction to Computer Science (CS50).</li>
-        <li>🌐 <b>Community Member:</b> Active member of Code X (MAIT), the official coding society of Maharaja Agrasen Institute of Technology.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" width="85%" align="center" style="margin: 0 auto;">
+    <tr>
+      <td width="100%">
+        <!-- Filtered to top 4 impactful points -->
+        <ul>
+          <li>🥇 <b>Winner, Pitch Your Idea 3.0:</b> Secured 1st rank for innovative idea presentation.</li>
+          <li>🚀 <b>National Level Finalist, HYPERSPACE Hackathon (IPEC):</b> Selected among the top teams nationwide for technical excellence.</li>
+          <li>🛡️ <b>Cybersecurity Analyst:</b> Participated in multiple National Level Capture The Flag (CTF) events.</li>
+          <li>👨‍💻 <b>Team Lead 'Syntax Error' (Azinhack):</b> Led a development team to build an ambitious project in a high-pressure environment.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br><br>
+
+<!-- Added GitHub Stats back as requested in previous iterations, but styled to match OualiCode -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuDas607&show_icons=true&title_color=f97316&icon_color=f97316&text_color=c9d1d9&bg_color=0f172a&border_color=f97316&hide_border=false" width="80%" alt="GitHub Stats">
+</div>
 
 <br><br>
 
 <div align="center">
-  <!-- Fixed URL encoding issue in the footer wave. Replaced %20 with standard (+) space representations where vercel bugs out -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=121b2a&height=120&section=footer&text=Portfolio+Priyanshu+Das&fontSize=20&fontColor=f97316" width="100%" alt="Footer Wave"/>
+  <!-- Valid Hex code for background, + instead of %20 for spaces, perfectly formed capsule URL -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer&text=Portfolio+Priyanshu+Das&fontSize=20&fontColor=f97316" width="100%" alt="Footer Wave"/>
 </div>
