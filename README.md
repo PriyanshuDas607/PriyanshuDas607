@@ -1,92 +1,361 @@
 <div align="center">
-  <!-- User Provided Cartoon Avatar (save the image as avatar.png in this folder) -->
-  <img src="avatar.png" width="180" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(249, 115, 22, 0.3);" alt="Developer Avatar">
 
-  <br><br>
+# `PRIYANSHU DAS`
 
-  <h1 style="color: #f97316;">Hi, I'm Priyanshu Das</h1>
-  <p><b>AI/ML Engineer & Computational Explorer</b></p>
-  <p>Passionate about building intelligent systems and solving complex problems with AI.</p>
+### AI/ML Engineer · Software Developer · Computational Explorer
 
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=COMPUTATIONAL%20EXPLORER&fontSize=34&fontColor=ffffff&fontAlignY=40&animation=twinkling&color=0:05070d,45:0b1f35,75:102f46,100:1b0f2b" width="100%"/>
 
-  <!-- Social Header Links (Orange Theme) -->
-  <a href="https://www.linkedin.com/in/priyanshu-das-919a1a302/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=f97316&border=f97316" alt="LinkedIn"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/PriyanshuDas607"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=f97316&border=f97316" alt="GitHub"></a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=priyanshudas272006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=f97316&border=f97316" alt="Email"></a>
+<p>
+  <a href="https://github.com/PriyanshuDas607">
+    <img src="https://img.shields.io/badge/GitHub-PriyanshuDas607-0b0f14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+</p>
+
+> **Building intelligent systems, scalable software, and experiments at the intersection of AI and engineering.**
+
 </div>
 
-<br><br><br>
+---
 
-<table border="0" width="100%" style="background-color: transparent;">
-  <tr>
-    <td width="30%" valign="middle" align="center">
-      <!-- High-quality transparent 3D Developer Avatar -->
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/software-developer-4550269-3779144.png" width="220" style="border-radius: 15px;" alt="AI Developer illustration">
-    </td>
-    <td width="70%" valign="top" align="center">
-      <h2 style="color: #f97316;">About Me</h2>
-      <p>
-        Computational Explorer & AI/ML Engineer deeply passionate about crafting intelligent ecosystems. 
-        I am driven by innovation, developing scalable machine learning models, and building modern 
-        data-driven applications that deliver exceptional software experiences.
-      </p>
-      <br>
-      <table border="0" width="100%" align="center">
-        <tr align="center">
-          <td align="center"><h3 style="color: #f97316;">2+</h3><p>Education</p></td>
-          <td align="center"><h3 style="color: #f97316;">10+</h3><p>Hackathons</p></td>
-          <td align="center"><h3 style="color: #f97316;">5+</h3><p>Projects</p></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+## `◉` ABOUT
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+### `IDENTITY`
+
+```text
+Name        → Priyanshu Das
+Role        → Computer Science Undergraduate
+Focus       → AI/ML + Software Development
+Interests   → Web • AI • Cybersecurity
+Location    → Delhi, India
+```
+
+I am a Computer Science undergraduate at **MAIT Delhi**, interested in building practical software and exploring how AI can be integrated into real-world applications.
+
+My current direction combines:
+
+- intelligent applications
+- modern web development
+- AI/ML experimentation
+- cybersecurity
+- developer tooling
+- problem solving
+
+</td>
+<td width="48%" valign="top">
+
+### `MISSION CONTROL`
+
+```text
+┌──────────────────────────────┐
+│  SYSTEM STATUS               │
+├──────────────────────────────┤
+│  SOFTWARE DEVELOPMENT   ● ON │
+│  AI / ML               ● ON  │
+│  WEB ENGINEERING       ● ON  │
+│  CYBERSECURITY         ● ON  │
+│  OPEN SOURCE           ● ON  │
+│  LEARNING              ● ON  │
+└──────────────────────────────┘
+```
+
+### CURRENT OBJECTIVE
+
+Build projects that are not only visually polished, but also technically useful, secure, and maintainable.
+
+</td>
+</tr>
 </table>
 
-<br><br><br>
+---
+
+## `◇` EDUCATION
+
+### `MAIT · B.Tech Computer Science`
+
+**Maharaja Agrasen Institute of Technology, Delhi**
+
+Computer Science undergraduate with a growing focus on:
+
+`Software Engineering` · `Artificial Intelligence` · `Machine Learning` · `Web Development` · `Cybersecurity`
+
+---
+
+## `◈` TECHNOLOGY ORBIT
 
 <div align="center">
-  <h2 style="color: #f97316;">My Skills</h2>
-  <p>Technologies and tools I work with to create amazing data-driven experiences.</p>
+
+### CORE
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs" alt="Core technologies"/>
+
+### AI / DATA
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI technologies"/>
+
+### ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mongodb,vscode,linux" alt="Engineering technologies"/>
+
 </div>
 
-<br>
+```text
+                         ┌─────────────┐
+                         │   PYTHON    │
+                         └──────┬──────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+        ┌─────▼─────┐     ┌─────▼─────┐     ┌─────▼─────┐
+        │   AI / ML │     │    WEB    │     │ SECURITY  │
+        └─────┬─────┘     └─────┬─────┘     └─────┬─────┘
+              │                 │                 │
+       TensorFlow          React / Node       Linux / Kali
+       PyTorch             APIs / DBs         CTF / Systems
+```
+
+---
+
+## `◎` PROJECT CONSTELLATION
+
+### `01` · MAPAN-R76 — Legal Metrology OS
+
+> A compliance-oriented digital system for weighing-instrument verification and inspection workflows.
+
+**Focus**
+
+`OIML R-76` · `ISO/IEC 17025` · `Verification` · `MPE` · `RBAC` · `Audit Trails` · `QR Verification`
+
+**Engineering direction**
+
+- role-based access control
+- organization/store-level data isolation
+- deterministic calculation engine
+- immutable audit concepts
+- report generation
+- public verification workflow
+- cryptographic integrity concepts
+
+<a href="https://mapan-r76.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-OPEN-101820?style=for-the-badge&logo=vercel&logoColor=white" alt="MAPAN-R76 live project"/>
+</a>
+
+---
+
+### `02` · 3D Developer Portfolio
+
+> A space-themed portfolio exploring interactive 3D interfaces, motion, and developer identity.
+
+**Focus**
+
+`React` · `Three.js` · `React Three Fiber` · `Drei` · `Framer Motion`
+
+Design direction:
+
+```text
+SPACE
+  ↓
+PLANETS → ORBITS → PROJECTS
+  ↓
+SKILLS → EXPERIENCE → CONTACT
+```
+
+---
+
+### `03` · Auto Audio Translator
+
+> A desktop-oriented real-time audio translation experiment.
+
+**Stack**
+
+`Tauri` · `React` · `Vite` · `Python` · `Faster-Whisper` · `WebSocket` · `Edge TTS`
+
+**Pipeline**
+
+```text
+Microphone / Loopback
+        ↓
+       VAD
+        ↓
+  Speech Detection
+        ↓
+ Faster-Whisper
+        ↓
+ Translation
+        ↓
+ Edge TTS
+        ↓
+   Audio Output
+```
+
+---
+
+### `04` · Nayantara Opticals
+
+> A SaaS-oriented optical-store platform concept focused on storefront, appointments, prescriptions, and role-based management.
+
+**Focus**
+
+`SaaS` · `RBAC` · `JWT` · `OTP` · `Store Isolation` · `Product Management` · `Appointments`
+
+---
+
+## `△` EXPERIENCE & BUILDING
+
+### `CURRENT TRACK`
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│  BUILD → TEST → DEBUG → SECURE → DEPLOY → ITERATE   │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+I enjoy working on projects where the challenge is not just writing code, but connecting multiple systems into one reliable product.
+
+### Areas I actively explore
+
+- AI-powered developer workflows
+- LLMs, RAG and AI agents
+- full-stack web applications
+- cybersecurity and Linux
+- APIs and backend architecture
+- database design
+- automation
+- interactive UI/UX
+
+---
+
+## `✦` HACKATHONS & MILESTONES
+
+```text
+2026
+ │
+ ├── Legal Metrology / MAPAN-R76
+ │     └── Advanced to internal hackathon stage
+ │
+ ├── AI + Sustainability
+ │     └── Project development track
+ │
+ └── AI / Developer Tooling
+       └── Continuous experimentation
+```
+
+> This section is intentionally focused on documented project milestones rather than inflated numbers.
+
+---
+
+## `⌘` WHAT I AM LEARNING
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### AI
+
+- LLM fundamentals
+- RAG
+- AI agents
+- evaluation
+- prompt engineering
+- practical AI applications
+
+</td>
+<td width="33%" valign="top">
+
+### ENGINEERING
+
+- Git / GitHub
+- Docker
+- PostgreSQL
+- REST APIs
+- backend architecture
+- deployment
+
+</td>
+<td width="33%" valign="top">
+
+### SECURITY
+
+- Linux
+- Kali Linux
+- web security
+- CTF concepts
+- authentication
+- authorization
+
+</td>
+</tr>
+</table>
+
+---
+
+## `◌` GITHUB SIGNAL
 
 <div align="center">
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,java,cpp,c,figma,git,vscode,linux,canva&theme=dark&perline=10" alt="My Skills" />
-  </a>
+
+<a href="https://github.com/PriyanshuDas607?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+<a href="https://github.com/PriyanshuDas607?tab=stars">
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE%20WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open source work"/>
+</a>
+
 </div>
 
-<br><br><br>
+---
+
+## `⌁` DEVELOPMENT PHILOSOPHY
+
+```text
+        GOOD SOFTWARE
+             │
+     ┌───────┼────────┐
+     │       │        │
+     ▼       ▼        ▼
+  USEFUL   SECURE   MAINTAINABLE
+     │       │        │
+     └───────┼────────┘
+             ▼
+        REAL IMPACT
+```
+
+I prefer projects where **design, engineering, security, and usability** support each other instead of being treated as separate layers.
+
+---
+
+## `↗` CONNECT
 
 <div align="center">
-  <h2 style="color: #f97316;">Experience & Achievements</h2>
-  <p>A showcase of my recent journey, competitive programming, and milestones.</p>
-</div>
 
-<br>
+### Let's build something interesting.
 
-<div align="center">
-  <table border="0" width="85%" align="center" style="margin: 0 auto;">
-    <tr>
-      <td width="100%">
-        <ul>
-          <li>🥇 <b>Winner, Pitch Your Idea 3.0:</b> Secured 1st rank for innovative idea presentation.</li>
-          <li>🚀 <b>National Level Finalist, HYPERSPACE Hackathon (IPEC):</b> Selected among the top teams nationwide for technical excellence.</li>
-          <li>🛡️ <b>Cybersecurity Analyst:</b> Participated in multiple National Level CTFs, solving complex security challenges.</li>
-          <li>👨‍💻 <b>Team Lead 'Syntax Error' (Azinhack):</b> Led a development team to build an ambitious project in a high-pressure environment.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+<a href="https://github.com/PriyanshuDas607">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br><br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer&text=&fontSize=20&fontColor=f97316" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1b0f2b,45:102f46,75:0b1f35,100:05070d" width="100%" alt="Footer"/>
+
 </div>
