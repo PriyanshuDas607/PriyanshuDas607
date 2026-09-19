@@ -125,7 +125,7 @@ Space/universe-inspired portfolio experiment using 3D scenes, motion, interactiv
 
 ## ◉ GITHUB ACTIVITY // 3D VIEW
 
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D GitHub contribution profile">
+<img src="/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D GitHub contribution profile">
 
 </div>
 
