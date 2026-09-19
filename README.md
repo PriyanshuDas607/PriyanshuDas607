@@ -43,7 +43,7 @@ Currently exploring:
 
 </td><td width="44%" align="center">
 
-<img src="./assets/orbit.svg" width="330" alt="Animated orbit">
+<img src="/orbit.svg" width="330" alt="Animated orbit">
 
 </td></tr>
 </table>
@@ -54,7 +54,7 @@ Currently exploring:
 
 ## ◈ TECH STACK // SKILL MATRIX
 
-<img src="./assets/skills.svg" width="100%" alt="Animated skill matrix">
+<img src="/skills.svg" width="100%" alt="Animated skill matrix">
 
 <br><br>
 
