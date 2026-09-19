@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <a href="https://github.com/PriyanshuDas607"><img src="./assets/hero.svg" width="100%" alt="Priyanshu Das animated profile"></a>
