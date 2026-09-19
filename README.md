@@ -172,7 +172,7 @@ Space/universe-inspired portfolio experiment using 3D scenes, motion, interactiv
 
 ## ◈ TRANSMISSION
 
-<a href="https://github.com/PriyanshuDas607"><img src="./assets/footer.svg" width="100%" alt="Animated contact transmission"></a>
+<a href="https://github.com/PriyanshuDas607"><img src="/footer.svg" width="100%" alt="Animated contact transmission"></a>
 
 <br>
 
