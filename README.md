@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/PriyanshuDas607"><img src="./assets/hero.svg" width="100%" alt="Priyanshu Das animated profile"></a>
+<a href="https://github.com/PriyanshuDas607"><img src="/hero.svg" width="100%" alt="Priyanshu Das animated profile"></a>
 
 <a href="https://github.com/PriyanshuDas607"><img src="https://img.shields.io/badge/GitHub-PriyanshuDas607-0d1117?style=for-the-badge&logo=github"></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail"></a>
